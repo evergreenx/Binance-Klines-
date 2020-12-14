@@ -1,6 +1,6 @@
 ## 
 
-This is a Electronjs and Reactjs application Integrating TradingView Lightweight Charts (https://github.com/tradingview/lightweight-charts) with Binance Spot API (https://binance-docs.github.io/apidocs/spot/en/#kline-candlestick-data)
+This is a Electronjs and Reactjs application Integrating TradingView Lightweight Charts https://github.com/tradingview/lightweight-charts with Binance Spot API https://binance-docs.github.io/apidocs/spot/en/#kline-candlestick-data
 
 ### Install
 
